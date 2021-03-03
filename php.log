@@ -1,0 +1,101 @@
+[15-Feb-2021 16:11:01 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 176
+[15-Feb-2021 16:11:01 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getChoice1() on null in /Applications/MAMP/htdocs/objective_output02/index.php:176
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 176
+[15-Feb-2021 16:15:12 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:15:12 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/objective_output02/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:16:40 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:16:40 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/objective_output02/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:19:16 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:19:16 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/objective_output02/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:22:34 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:22:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/objective_output02/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 169
+[15-Feb-2021 16:26:41 Asia/Tokyo] PHP Notice:  Undefined offset: 8 in /Applications/MAMP/htdocs/objective_output02/index.php on line 105
+[15-Feb-2021 16:26:41 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/objective_output02/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 170
+[15-Feb-2021 16:33:33 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:33 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:33:34 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:34 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:33:35 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:43 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:43 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:33:45 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:45 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:33:46 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:46 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:33:48 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:33:48 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:33:49 Asia/Tokyo] PHP Deprecated:  Non-static method History::getCount() should not be called statically in /Applications/MAMP/htdocs/objective_output02/index.php on line 189
+[15-Feb-2021 16:34:22 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:34:23 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:34:39 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:34:44 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 138
+[15-Feb-2021 16:34:44 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:138
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 138
+[15-Feb-2021 16:34:56 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:34:59 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:35:50 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:36:14 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:36:24 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 89
+[15-Feb-2021 16:37:38 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 140
+[15-Feb-2021 16:37:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 140
+[15-Feb-2021 16:40:05 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 140
+[15-Feb-2021 16:40:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 140
+[15-Feb-2021 16:45:05 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:45:05 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:45:09 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:45:09 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:45:11 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:45:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:59:54 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[15-Feb-2021 16:59:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[16-Feb-2021 13:12:58 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[16-Feb-2021 13:12:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[16-Feb-2021 13:13:02 Asia/Tokyo] PHP Notice:  Undefined index: question in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[16-Feb-2021 13:13:02 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getAnswer() on null in /Applications/MAMP/htdocs/objective_output02/index.php:141
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/objective_output02/index.php on line 141
+[22-Feb-2021 11:41:20 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 90
+[22-Feb-2021 11:41:23 Asia/Tokyo] PHP Notice:  Undefined index: count in /Applications/MAMP/htdocs/objective_output02/index.php on line 90
+[22-Feb-2021 11:59:28 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/objective_output02/index.php on line 176
+[22-Feb-2021 12:00:27 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/objective_output02/index.php on line 176
